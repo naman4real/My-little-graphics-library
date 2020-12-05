@@ -1,0 +1,28 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  tex_fun.cpp
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(25): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(16): warning C4101: 'j': unreferenced local variable
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(88): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(89): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(91): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(93): warning C4806: '^': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(93): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(98): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(102): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(107): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(112): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(117): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(122): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(127): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(132): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(137): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(142): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(147): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\naman\desktop\csci580-hws\gupta_namn_hw5\tex_fun.cpp(149): warning C4305: '=': truncation from 'double' to 'float'
+  CS580HW5.vcxproj -> C:\Users\naman\Desktop\CSCI580-HWs\GUPTA_NAMN_HW5\.\Debug\CS580HW5.exe

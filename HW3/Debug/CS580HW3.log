@@ -1,0 +1,4 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  rend.cpp
+c:\users\naman\desktop\csci580-hws\hw3\rend.cpp(462): warning C4172: returning address of local variable or temporary: crossP
+  CS580HW3.vcxproj -> C:\Users\naman\Desktop\CSCI580-HWs\HW3\.\Debug\CS580HW3.exe
